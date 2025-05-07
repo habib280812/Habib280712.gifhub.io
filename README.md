@@ -1,4 +1,3 @@
-# Habib280712.gifhub.io
 <!DOCTYPE html>
 <html lang="ms">
 <head>
@@ -43,8 +42,7 @@
       <option value="4">Tingkatan 4</option>
       <option value="5">Tingkatan 5</option>
     </select>
-    <button onclick="mulaKuiz()">Mula Kuiz</button>
-
+    <button onclick="mulaKuiz()">Mula Kuiz</button 
     <div id="quiz" style="display:none;">
       <div id="soalan"></div>
       <input type="text" id="jawapan" placeholder="Jawapan anda"/>
